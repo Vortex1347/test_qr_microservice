@@ -1,0 +1,1 @@
+SELECT * FROM qr_archive;
